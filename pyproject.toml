@@ -1,0 +1,24 @@
+[project]
+name = "vibekey"
+version = "0.1.0"
+description = "Transcribe voice to text quickly!"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ctranslate2>=4.5.0",
+    "faster-whisper>=1.1.1",
+    "pynput>=1.7.7",
+    "pyperclip>=1.9.0",
+    "pyside6>=6.8.2.1",
+    "scipy>=1.15.1",
+    "sounddevice>=0.5.1",
+    "nvidia-cublas-cu12==12.4.5.8",
+    "nvidia-cuda-nvrtc-cu12==12.4.127",
+    "nvidia-cuda-runtime-cu12==12.4.127",
+    "nvidia-cudnn-cu12==9.5.0.50",
+    "pywin32>=308",
+]
+
+
+[tool.ruff]
+line-length = 180
