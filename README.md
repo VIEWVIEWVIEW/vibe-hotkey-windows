@@ -4,7 +4,7 @@ A minimal Windows application that transcribes microphone audio to text with a s
 
 ![Screenshot](img/screenshot_device_selector.png)
 
-*🎥 [Demo Video (Activate Sound!)](#) - Showing "My cat is very cute" transcription example*
+*🎥 [Demo Video (Activate Sound!)](https://github.com/user-attachments/assets/6a7fd366-5242-4406-a1a9-172270dcf1bd) - Showing "My cat is very cute" transcription example*
 
 ## 🚀 Features
 - **One-Click Transcription** - `Ctrl+Shift+Space` starts/stops recording
